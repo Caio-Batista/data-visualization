@@ -1,0 +1,25 @@
+body {
+    padding-top: 50px;
+}
+.main {
+    padding: 40px 15px;
+    text-align: center;
+}
+#chart-title {
+    text-align: center
+}
+#chart-container {
+    height: 400px; width: 100%;
+}
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+.grid-axis-y {
+    opacity: 0.2;
+}
+
+.grid-axis-y text {
+    opacity: 0;
+}
